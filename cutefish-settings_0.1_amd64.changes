@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: cutefish-settings
+Binary: cutefish-settings
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ cutefish-settings - CutefishOS Settings
+Changes:
+ cutefish-settings (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ 8dcd28ec8a631322454ac01eb0d717fd9ec2a3d2 2113892 cutefish-settings-dbgsym_0.1_amd64.ddeb
+ 36bb00682788d2f13c00f83041197ec70a079968 14669 cutefish-settings_0.1_amd64.buildinfo
+ ad8ac72333d5f5b82a4378486b83214be1e8512f 143752 cutefish-settings_0.1_amd64.deb
+Checksums-Sha256:
+ 13b5ba28f61aec5dd8420fc4b2267b2fc2e32bad10323ed243ba3063b4c7f315 2113892 cutefish-settings-dbgsym_0.1_amd64.ddeb
+ 1254c6f333712df15b951584097908245d21a44746f3854a5101c81ecc065387 14669 cutefish-settings_0.1_amd64.buildinfo
+ 57aa18544507617c9ed0c9824f6ddc566313507e3fdd7ecc16da1c66e99d0000 143752 cutefish-settings_0.1_amd64.deb
+Files:
+ ff0180340340549751f25473e206c71f 2113892 debug optional cutefish-settings-dbgsym_0.1_amd64.ddeb
+ 0403de58c5535c53c1aed7ac8e8eb15f 14669 devel optional cutefish-settings_0.1_amd64.buildinfo
+ ce32ed913a71e53ba50dfc70b7ee14bd 143752 devel optional cutefish-settings_0.1_amd64.deb
